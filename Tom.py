@@ -401,7 +401,7 @@ __________________×_______________
 
   Facebook : Mark Showrob
   
-  Other : https://www.facebook.com/I.Fell.Alone.In.Love.07
+  Other : https://www.facebook.com/link.diya.ki.hat.marbi.nki
   
   Contact : 01739237334
 __________________×______________________\033[1;37m""")
